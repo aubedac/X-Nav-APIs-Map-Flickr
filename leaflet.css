@@ -1,0 +1,12 @@
+#mapid {
+  height: 400px;
+  width: auto;
+}
+#search input {
+  width: 200px;
+}
+#results {
+  font-style: sans-serif;
+  color: black;
+  font-size: 75%;
+}
